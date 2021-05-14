@@ -1,0 +1,27 @@
+.page-wrapper{
+    width: 99%;
+    border: 1px solid red;
+    padding-bottom: 1%;
+}
+.top-contain{
+    width:98%;
+    border: 1px solid skyblue;
+  margin-top: 1%;
+  margin-left: 1%;
+}
+ .top-box{
+    width: 90%;
+    background-color: green;
+   margin: auto;
+   padding-top:2%;
+}
+.page-wrapper1{
+    margin-top: 2%;
+}
+.top-box1{
+    padding-bottom: 30%;
+}
+.top-contain1{
+    width: 98%;
+    margin-left: 0.9%;
+}
